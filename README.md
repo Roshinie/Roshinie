@@ -6,7 +6,7 @@
 <h3 align="center">I am a University Undergraduate with a great passion for Computer Science and Engineering. I am enthusiastic to gain new knowledge, skills, techniques and apply them in real world projects. :blush: </h3>
 <br>
 
-- 🔭 I’m currently work as an intern at at **ZeroOneTechnologies**
+- 🔭 I’m currently working on project **Covid-Safe** and **Thalassemia Registry**
 
 - 🌱 I’m currently learning **Machine Learning, Springboot, React Native**
 
