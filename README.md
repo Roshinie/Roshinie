@@ -1,14 +1,14 @@
 
-<h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roshinie Jayasundara</h1>
+<h1 align="center">Hello, there! 👋 , I'm Roshinie Jayasundara</h1>
 
 <h4>About Me : </h4>
 
 <h3 align="center">I am a University Undergraduate with a great passion for Computer Science and Engineering. I am enthusiastic to gain new knowledge, skills, techniques and apply them in real world projects. :blush: </h3>
 <br>
 
-- 🔭 I’m currently working on project **Covid-Safe** and **Thalassemia Registry**
+- 🔭 I’m currently working as a Software Engineering Intern at Codegen
 
-- 🌱 I’m currently learning **Machine Learning, Springboot, React Native**
+- 🌱 I’m currently learning **Machine Learning, Springboot, Angular**
 
 - 📫 Reach me at **roshinie.18@cse.mrt.ac.lk**
 
