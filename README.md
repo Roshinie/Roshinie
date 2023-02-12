@@ -1,3 +1,8 @@
+<head>
+  <meta name="description" content="Roshinie Jaysundara Github">
+  <meta name="keywords" content="GitHub, Roshinie Jayasundara">
+  <meta name="author" content="Roshinie Jayasundara">
+</head>
 
 <h1 align="center">Hello, there! 👋 , I'm Roshinie Jayasundara</h1>
 
