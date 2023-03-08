@@ -11,11 +11,13 @@
 <h3 align="center">I am a University Undergraduate with a great passion for Computer Science and Engineering. I am enthusiastic to gain new knowledge, skills, techniques and apply them in real world projects. :blush: </h3>
 <br>
 
-- 🔭 I’m currently working as a Software Engineering Intern at Codegen
+- 🔭 I’m currently working on a blockchain project "NFT Tokenization and Rental Economy"
 
-- 🌱 I’m currently learning **Machine Learning, Springboot, Angular**
+- 🌱 I’m currently learning **Machine Learning, Springboot, Solidity**
 
-- 📫 Reach me at **roshinie.18@cse.mrt.ac.lk**
+- 📫 I publish articles on [medium](https://medium.com/@roshinie-jayasundara).
+
+- 📫 Reach me at **roshinienj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/roshinie-jayasundara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshinie-jayasundara/" height="30" width="40" /></a>
