@@ -8,10 +8,11 @@
 
 <h4>About Me : </h4>
 
-<h3 align="center">I am a University Undergraduate with a great passion for Computer Science and Engineering. I am enthusiastic to gain new knowledge, skills, techniques and apply them in real world projects. :blush: </h3>
+<h3 align="center">I am a Software Engineer at Enactor with a strong background in computer science. I am enthusiastic to gain new knowledge, skills, techniques and apply them in real world projects. :blush: </h3>
 <br>
+- 🔭 I’m currently working as a Software Engineer at Enactor
 
-- 🔭 I’m currently working on a blockchain project "NFT Tokenization and Rental Economy"
+- 🔭 I recently worked on a blockchain project "NFT Tokenization and Rental Economy"
 
 - 🌱 I’m currently learning **Machine Learning, Springboot, Solidity**
 
